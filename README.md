@@ -1,1 +1,1 @@
-# MusicStoreSales_SQL-Projects
+# This is repository of different SQL projects completed by me.
